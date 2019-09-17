@@ -1,2 +1,2 @@
-# huffman-coding
-File compression using Huffman Coding
+# File compression using Huffman Coding
+Built with help from the Internet.
