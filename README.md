@@ -1,5 +1,5 @@
 # File compression using Huffman Coding
-Built with help from the Internet.
+Built with help from the Internet as a mini project for college.
 
 The example shown in the PNG file is the compression of a 100 MB text file
 known by the name enwik8. enwik8 is the test data used for the Large Text
